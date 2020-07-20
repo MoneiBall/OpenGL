@@ -1,0 +1,40 @@
+﻿  MyApp.cpp
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\GLUtils.hpp(24,74): warning C4474:  'fprintf' : too many arguments passed for format string
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\GLUtils.hpp(24,74): message :  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(317,15): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(318,15): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(374,17): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(377,24): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(390,23): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(391,23): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(401,109): warning C4305:  'argument': truncation from 'double' to 'T'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(401,109): warning C4305:         with
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(401,109): warning C4305:         [
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(401,109): warning C4305:             T=float
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(401,109): warning C4305:         ]
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(403,29): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(403,29): warning C4244:         with
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(403,29): warning C4244:         [
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(403,29): warning C4244:             T=float
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(403,29): warning C4244:         ]
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(438,24): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(439,24): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(442,19): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(447,25): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(450,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(453,26): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(460,26): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(463,20): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(466,25): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(474,25): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(477,26): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(480,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(487,20): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(490,25): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(493,26): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(501,166): warning C4305:  'argument': truncation from 'double' to 'T'
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(501,166): warning C4305:         with
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(501,166): warning C4305:         [
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(501,166): warning C4305:             T=float
+C:\Users\sadim\Desktop\MyFishExam\exam\01_Middle\MyApp.cpp(501,166): warning C4305:         ]
+  01_Middle.vcxproj -> C:\Users\sadim\Desktop\MyFishExam\exam\Debug\01_Middle.exe
